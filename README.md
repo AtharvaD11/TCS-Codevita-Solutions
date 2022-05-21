@@ -1,2 +1,2 @@
 # TCS-Codevita-Solutions
-Solutions of TCS Codevita problems that I was able to solve
+Solutions of TCS Codevita Season 10 problems that I was able to solve
